@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-ForLoops", "16-ForLoops\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-NestedLoops", "17-NestedLoops\17-NestedLoops.csproj", "{75CAB2EE-CBF3-4298-9ED8-65FFAF807EEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-NumberGuessingGame", "18-NumberGuessingGame\18-NumberGuessingGame.csproj", "{B2F339D6-538B-47B5-A394-F91DB7D337D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{75CAB2EE-CBF3-4298-9ED8-65FFAF807EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75CAB2EE-CBF3-4298-9ED8-65FFAF807EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75CAB2EE-CBF3-4298-9ED8-65FFAF807EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2F339D6-538B-47B5-A394-F91DB7D337D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F339D6-538B-47B5-A394-F91DB7D337D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F339D6-538B-47B5-A394-F91DB7D337D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F339D6-538B-47B5-A394-F91DB7D337D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
