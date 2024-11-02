@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-IfStatements", "12-IfSta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-FindHypotenuse", "10-FindHypotenuse\10-FindHypotenuse.csproj", "{F1BC1047-4257-48E9-8E61-836802FA26F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-Switches", "13-Switches\13-Switches.csproj", "{B57B3B13-1674-41D0-BA90-DD948A7BA5B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F1BC1047-4257-48E9-8E61-836802FA26F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1BC1047-4257-48E9-8E61-836802FA26F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1BC1047-4257-48E9-8E61-836802FA26F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B57B3B13-1674-41D0-BA90-DD948A7BA5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57B3B13-1674-41D0-BA90-DD948A7BA5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57B3B13-1674-41D0-BA90-DD948A7BA5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57B3B13-1674-41D0-BA90-DD948A7BA5B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
