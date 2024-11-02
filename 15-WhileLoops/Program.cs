@@ -9,8 +9,7 @@ namespace WhileLoops
             // While Loops
             // - They repeat some code as long as some condition is true.
 
-            Console.Write("Enter your name: ");
-            string name = Console.ReadLine();
+            string name = "";
 
             while (name == "")
             {
@@ -18,7 +17,7 @@ namespace WhileLoops
                 name = Console.ReadLine();
             }
 
-            Console.WriteLine("Hello " + name + "!);
+            Console.WriteLine("Hello " + name + "!");
 
             Console.ReadKey();
         }
