@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-NumberGuessingGame", "18
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-RockPaperScissorsGame", "19-RockPaperScissorsGame\19-RockPaperScissorsGame.csproj", "{58A21B77-C471-4E05-B804-698742714A59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-Calculator", "20-Calculator\20-Calculator.csproj", "{D147419F-F0EA-4D88-970A-F9754923530F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{58A21B77-C471-4E05-B804-698742714A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58A21B77-C471-4E05-B804-698742714A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58A21B77-C471-4E05-B804-698742714A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D147419F-F0EA-4D88-970A-F9754923530F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D147419F-F0EA-4D88-970A-F9754923530F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D147419F-F0EA-4D88-970A-F9754923530F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D147419F-F0EA-4D88-970A-F9754923530F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
