@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-ReturnKeyword", "24-Retu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25-MethodOverloading", "25-MethodOverloading\25-MethodOverloading.csproj", "{1CEBE1A5-586F-45B2-9CEA-B935B9813BDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26-ParamsKeyword", "26-ParamsKeyword\26-ParamsKeyword.csproj", "{478D8377-6A17-42DA-BD92-1F7E832200A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{1CEBE1A5-586F-45B2-9CEA-B935B9813BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CEBE1A5-586F-45B2-9CEA-B935B9813BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CEBE1A5-586F-45B2-9CEA-B935B9813BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{478D8377-6A17-42DA-BD92-1F7E832200A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478D8377-6A17-42DA-BD92-1F7E832200A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478D8377-6A17-42DA-BD92-1F7E832200A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478D8377-6A17-42DA-BD92-1F7E832200A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
