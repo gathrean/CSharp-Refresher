@@ -7,7 +7,7 @@ namespace WhileLoops
         static void Main(string[] args)
         {
             // While Loops
-            // - They repeat some code as long as some condition is true.
+            // - They repeat some code INFINITE amount of times, as long as some condition is true.
 
             string name = "";
 
