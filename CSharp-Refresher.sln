@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22-ForEachLoops", "22-ForEa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23-Methods", "23-Methods\23-Methods.csproj", "{F24F7DBA-1023-41CA-9CE8-9BA32C3CA772}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-ReturnKeyword", "24-ReturnKeyword\24-ReturnKeyword.csproj", "{1D767866-B046-4271-9457-7A68802F1258}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{F24F7DBA-1023-41CA-9CE8-9BA32C3CA772}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F24F7DBA-1023-41CA-9CE8-9BA32C3CA772}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F24F7DBA-1023-41CA-9CE8-9BA32C3CA772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D767866-B046-4271-9457-7A68802F1258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D767866-B046-4271-9457-7A68802F1258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D767866-B046-4271-9457-7A68802F1258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D767866-B046-4271-9457-7A68802F1258}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
