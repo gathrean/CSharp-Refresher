@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26-ParamsKeyword", "26-Para
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27-ExceptionHandling", "27-ExceptionHandling\27-ExceptionHandling.csproj", "{0368F00A-CAB2-43E0-BD1A-51197EF4D11D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28-ConditionalOperator", "28-ConditionalOperator\28-ConditionalOperator.csproj", "{9C6D3BDE-8D17-4E72-BF92-C7519F39699E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{0368F00A-CAB2-43E0-BD1A-51197EF4D11D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0368F00A-CAB2-43E0-BD1A-51197EF4D11D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0368F00A-CAB2-43E0-BD1A-51197EF4D11D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C6D3BDE-8D17-4E72-BF92-C7519F39699E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6D3BDE-8D17-4E72-BF92-C7519F39699E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6D3BDE-8D17-4E72-BF92-C7519F39699E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6D3BDE-8D17-4E72-BF92-C7519F39699E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
