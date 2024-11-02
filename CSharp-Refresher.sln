@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39-ObjectsAsArguments", "39
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40-MethodOverloading", "40-MethodOverloading\40-MethodOverloading.csproj", "{BD21C677-3BE7-402F-B0A7-1E718153E085}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41-ToStringMethod", "41-ToStringMethod\41-ToStringMethod.csproj", "{461BA420-437C-45FF-B378-0861CDCAB6A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{BD21C677-3BE7-402F-B0A7-1E718153E085}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD21C677-3BE7-402F-B0A7-1E718153E085}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD21C677-3BE7-402F-B0A7-1E718153E085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{461BA420-437C-45FF-B378-0861CDCAB6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461BA420-437C-45FF-B378-0861CDCAB6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461BA420-437C-45FF-B378-0861CDCAB6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461BA420-437C-45FF-B378-0861CDCAB6A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
