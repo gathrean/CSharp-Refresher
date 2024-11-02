@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30-MultidimensionalArrays",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31-Classes", "31-Classes\31-Classes.csproj", "{FB9C3A13-EEEC-4A7E-9E60-8507EB7E9A18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32-Objects", "32-Objects\32-Objects.csproj", "{22FA5E39-D4B4-4454-970A-AE72B9052047}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{FB9C3A13-EEEC-4A7E-9E60-8507EB7E9A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB9C3A13-EEEC-4A7E-9E60-8507EB7E9A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB9C3A13-EEEC-4A7E-9E60-8507EB7E9A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22FA5E39-D4B4-4454-970A-AE72B9052047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FA5E39-D4B4-4454-970A-AE72B9052047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FA5E39-D4B4-4454-970A-AE72B9052047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FA5E39-D4B4-4454-970A-AE72B9052047}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
