@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstProgram", "MyFirstProgram\MyFirstProgram.csproj", "{81F202CF-1B77-406C-9775-EBDF79D3C258}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-FindHypoteneuse", "FindHypoteneuse\10-FindHypoteneuse.csproj", "{658B59AD-93E0-46D7-92FB-A7B2AB47E702}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-FindHypotenuse", "FindHypotenuse\10-FindHypotenuse.csproj", "{658B59AD-93E0-46D7-92FB-A7B2AB47E702}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-StringMethods", "11-StringMethods\11-StringMethods.csproj", "{746F3BB2-0F26-42E7-88C2-3BB54EF8B706}"
 EndProject
